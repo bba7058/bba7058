@@ -1,4 +1,5 @@
 ### Hi there 👋
+![Top Langs](https://github-readme-stats-bba7058.vercel.app/api/top-langs/?username=bba7058&layout=compact)
 
 <!--
 **bba7058/bba7058** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

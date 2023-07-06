@@ -4,8 +4,8 @@
     <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" data-animated-image="" style="max-width: 100%;">
   </a>
 </h1>
-<p>💻 My name is Pisit Moonfoei. I'm FrontEnd/WordPress Developer based in Thailand. 
-✨ I'm currently working as a freelancer helping everyone create the website and solve issues to be effortless and quickly.</p>
+<p>💻 My name is Pisit Moonfoei. I'm FrontEnd/WordPress Developer based in Thailand.</p> 
+<p>✨ I'm currently working as a freelancer helping everyone create the website and solve issues to be effortless and quickly.</p>
 <h3 align="left">Languages and Tools:</h3>
   <p align="left"> 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">

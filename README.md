@@ -1,16 +1,11 @@
 
-<h1 align="center">Hello 👋, I'm Pisit</h1>
-
-<h3 align="center">A passionate frontend developer from Thailand</h3>
-- 🔭FrontEnd Developer - BackEnd Developer - WordPress Developer
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
+<h1 align="center">Hello, I'm Pisit
+  <a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif">
+    <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" data-animated-image="" style="max-width: 100%;">
+  </a>
+</h1>
+<p>💻 My name is Pisit Moonfoei. I'm FrontEnd/WordPress Developer based in Thailand. 
+✨ I'm currently working as a freelancer helping everyone create the website and solve issues to be effortless and quickly.</p>
 <h3 align="left">Languages and Tools:</h3>
   <p align="left"> 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
@@ -42,7 +37,7 @@
 </a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats-murex-five-89.vercel.app/api/top-langs/?username=bba7058&layout=compact" alt="bba7058" /></p>
+<p><img align="left" src="https://github-readme-stats-bba7058.vercel.app/api/top-langs/?username=bba7058&layout=compact" alt="bba7058" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bba7058&" alt="bba7058" /></p>
 

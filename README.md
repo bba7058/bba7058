@@ -4,8 +4,9 @@
     <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" data-animated-image="" style="max-width: 100%;">
   </a>
 </h1>
-<p>💻 My name is Pisit Moonfoei. I'm FrontEnd/WordPress Developer based in Thailand.</p> 
-<p>✨ I'm currently working as a freelancer helping everyone create the website and solve issues to be effortless and quickly.</p>
+<p>💻 My name is Pisit Moonfoei. I'm WordPress Developer based in Thailand.</p> 
+<p>✨ I am a professional WordPress Developer with 3+ years of experience in web development. I have developed responsive websites using WordPress, Bootstrap, jQuery, Ajax, and other technologies. I have also optimized site performance, speed, and SEO, and troubleshooted and debugged code.</p>
+<p>⭐️ As a freelance WordPress developer, I help clients create modern, minimal, fast, and working websites that meet their needs and goals. I have proficiency in HTML, CSS, JavaScript, and PHP. I value quality, efficiency, and customer satisfaction in my work.</p>
 <h3 align="left">Languages and Tools:</h3>
   <p align="left"> 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">

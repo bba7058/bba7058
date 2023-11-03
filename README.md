@@ -37,8 +37,7 @@
   <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> 
 </a>
 </p>
-
-<p><img align="left" src="https://github-readme-stats-bba7058.vercel.app/api/top-langs/?username=bba7058&layout=compact" alt="bba7058" /></p>
+<p><img align="left" src="https://github-readme-stats-git-master-bba7058.vercel.app/api/top-langs/?username=bba7058&layout=compact" alt="bba7058" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bba7058&" alt="bba7058" /></p>
 
